@@ -53,10 +53,10 @@ Built 5 SQL views to separate business logic from the visualization layer:
 | Transactions Processed | 1M+ |
 
 📸 Dashboard Preview
-![Executive Summary](Screenshots/1_executive_summary)
-![Customer Analytics](screenshots/02_customer_analytics.png)
-![Product Analytics](screenshots/03_product_analytics.png)
-![Key Findings](screenshots/04_key_findings.png)
+![Executive Summary](Screenshots/1_executive_summary.png)
+![Customer Analytics](Screenshots/2_customer_analytics.png)
+![Product Analytics](Screenshots/3_product_analytics.png)
+![Key Findings](Screenshots/4_key_findings.png)
 
 🚀 How to Run
 1. Run `data_cleaning.ipynb` on the raw dataset to produce the cleaned CSV
